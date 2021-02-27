@@ -1,3 +1,5 @@
+// Copyright - All rights reserved to A.S.
+
 import java.util.List;
 
 public class AI{
